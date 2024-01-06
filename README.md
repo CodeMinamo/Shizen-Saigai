@@ -11,11 +11,5 @@
 </div>
 
 <br />
-
-### Demo Screeshots
-
-![Shizen Saigai Desktop Demo](Screenshot (1)"Desktop Demo")
-![Shizen Saigai Desktop Demo](Screenshot (2)"Desktop Demo")
-
 This project is **free to use** and does not contains any license.
 # Shizen Saigai
