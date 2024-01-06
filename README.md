@@ -6,7 +6,7 @@
 
   This website is fully responsive personal Design, <br />Responsive for all devices, built using HTML, CSS.
 
-  <a href="https://codeminamo.github.io/Personal-Portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codeminamo.github.io/Shizen-Saigai/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
